@@ -1,0 +1,13 @@
+name = "soberana-server"
+author = "roridev"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8e6f54535a1168b5a9d43b01f6e10b11852b0fa1ecfa1cc343439b4070300755"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.17.5-beta.3"

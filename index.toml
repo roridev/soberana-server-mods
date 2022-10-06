@@ -1,0 +1,91 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/banhammer.pw.toml"
+hash = "8a15a15995f5f85a47943e82233dfb00533faff337ebf2f9d42836583becdfc1"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "4a7dc34ea75dda18719bdcee7fdb23a48c53142b57df960ffffbca652fc6b95a"
+metafile = true
+
+[[files]]
+file = "mods/drogtor.pw.toml"
+hash = "0da6c09f627126988afb5a192e95147bf0911f954f07cf756550704c9ab4f540"
+metafile = true
+
+[[files]]
+file = "mods/easyauth.pw.toml"
+hash = "f2b5fecdf40015075b0c6feebdf54685e3dfedb00d68fa056d8a72b6585a3c2e"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "dfebd8072576c75a939f56cab83cabdf3c5828da7cdb814e97c272e6c0b8d006"
+metafile = true
+
+[[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "b3e1f7b080b5c4a2e3de434a6873d84ba5bd357dff99268d45db4a79fb6d43b9"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "99f6a7efa6c8946aacfa1465ad8a2912cdf3233dc09a5788ad5d7f6d679836b4"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "cbd6b97dfc49090b18480f43eeef4401144006ed406110f32fb1126d47a21f11"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "7cc268ba8c316a732881e631e00db7cf8db0891f24155475db0a4e88840cdfe8"
+metafile = true
+
+[[files]]
+file = "mods/minimotd.pw.toml"
+hash = "224b831a1cdce497428441731ebbfcbf4565b53f12225f21b90a7116e8b3c1b9"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.pw.toml"
+hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "997b1a93ccd70d86710170532e27b301cd15723fd7e8e74a14d8322ce5d47dd7"
+metafile = true
+
+[[files]]
+file = "mods/sessility.pw.toml"
+hash = "830d8b3268f6379b7746b54ad8d71ee043010b508f78de7c9cba138dbfe22be0"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "2d7024f15576d5e4f0b4ad573c5da9ef4cb33d8898886a899a33418e1e2f97d9"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "fab2a06b136eb37c24269381681619d740da6dc3c0eae11e86c4431e18e83bb8"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "1068f631723fedc967171a1b52c02dd9560601d303fe9a1f28717471d8aa7e68"
+metafile = true
+
+[[files]]
+file = "mods/switchy.pw.toml"
+hash = "2333e1e5248bbb54dc0fd6a7274924552f52a4f87601243c0903a06935584417"
+metafile = true
