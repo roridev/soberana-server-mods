@@ -86,6 +86,11 @@ hash = "997b1a93ccd70d86710170532e27b301cd15723fd7e8e74a14d8322ce5d47dd7"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "1e8ecf0a299bc7da839c6af16be7c67a196b1616b567b16bcc75746b066a57ad"
+metafile = true
+
+[[files]]
 file = "mods/sessility.pw.toml"
 hash = "830d8b3268f6379b7746b54ad8d71ee043010b508f78de7c9cba138dbfe22be0"
 metafile = true
