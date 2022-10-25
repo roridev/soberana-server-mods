@@ -1,0 +1,13 @@
+name = "Kdly Data"
+filename = "kdlydata-1.0.1+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3KeAzGlv/versions/IAFjR2BE/kdlydata-1.0.1%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "744d5c098bb3a8831ac5a93c25254a1d7b1380b3"
+
+[update]
+[update.modrinth]
+mod-id = "3KeAzGlv"
+version = "IAFjR2BE"

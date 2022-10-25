@@ -56,6 +56,11 @@ hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
 metafile = true
 
 [[files]]
+file = "mods/kdlydata.pw.toml"
+hash = "c2d4ce365a8076b3480f5449a6c298d7a11cf6be9e611c2e5c21da6fa279aef0"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
