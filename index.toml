@@ -12,17 +12,17 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-extra.pw.toml"
-hash = "47227cfa0e09bedbc12fffd3186cd1a215b024b864a4a2b79d9f90d99f4c80c1"
+hash = "a084ad59e4b863b03da0406fe85d39441e7e7ba1b1407dab72b240ee8a16d8b6"
 metafile = true
 
 [[files]]
 file = "mods/carpet-fixes.pw.toml"
-hash = "33f1adefd1785ac793c4e49f63c21aa5d4dc7457ca930676f9082b8c29aaf770"
+hash = "25eb272f5f04290914e0b4c7370cf0ee059ee11888c43b8fd2805aaafecfa39c"
 metafile = true
 
 [[files]]
 file = "mods/carpet.pw.toml"
-hash = "4a7dc34ea75dda18719bdcee7fdb23a48c53142b57df960ffffbca652fc6b95a"
+hash = "3d89448c7689702ee772d9d1a5119dc7f47facdf8adf0d780804fda257d6671a"
 metafile = true
 
 [[files]]
@@ -42,12 +42,12 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "7250c341106f7097064eaf65f72cb3d7668f0c3a28a67278442f42441020d465"
+hash = "77a971c4dd06bb66f87b3de3b804866bb3c7a9325fd84dacfe8f6d33502393bf"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "dfebd8072576c75a939f56cab83cabdf3c5828da7cdb814e97c272e6c0b8d006"
+hash = "6058946b7fb51a487cfdf61cba87562eda75ee38ebb16ae336c26fb24dd17c26"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "7cc268ba8c316a732881e631e00db7cf8db0891f24155475db0a4e88840cdfe8"
+hash = "ce0302a48e6287e497c3936f481287763509336fd5d4ce79b283fb51af710455"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "997b1a93ccd70d86710170532e27b301cd15723fd7e8e74a14d8322ce5d47dd7"
+hash = "505d4e687dfe10d15b9631b7ca349d7862c07183e8342f63504b7b46b1087114"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "1e8ecf0a299bc7da839c6af16be7c67a196b1616b567b16bcc75746b066a57ad"
+hash = "94d8491cd39504b6faa3fb1c3da6233dfc0dbf5d854798a53079fb3f7c5fdfd0"
 metafile = true
 
 [[files]]
@@ -122,12 +122,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "2d7024f15576d5e4f0b4ad573c5da9ef4cb33d8898886a899a33418e1e2f97d9"
+hash = "3852f130112625c1bbd4e5e773afa2487b7da84256e1d4642f8435552f41d832"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "fab2a06b136eb37c24269381681619d740da6dc3c0eae11e86c4431e18e83bb8"
+hash = "79870ab97caf526e6599d2d429ef778848935bbaf2c7020948e203afbb3f32bc"
 metafile = true
 
 [[files]]
@@ -137,5 +137,5 @@ metafile = true
 
 [[files]]
 file = "mods/switchy.pw.toml"
-hash = "2333e1e5248bbb54dc0fd6a7274924552f52a4f87601243c0903a06935584417"
+hash = "f7956a5291dde66560c401ff4417c254d6c8f0f318d1df502cf23e34f9664894"
 metafile = true
