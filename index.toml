@@ -111,11 +111,6 @@ hash = "505d4e687dfe10d15b9631b7ca349d7862c07183e8342f63504b7b46b1087114"
 metafile = true
 
 [[files]]
-file = "mods/raknetify.pw.toml"
-hash = "b3d53702d8351a61707980136b9d04638d1411494dc372528211527500003da9"
-metafile = true
-
-[[files]]
 file = "mods/servercore.pw.toml"
 hash = "94d8491cd39504b6faa3fb1c3da6233dfc0dbf5d854798a53079fb3f7c5fdfd0"
 metafile = true
