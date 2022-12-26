@@ -1,13 +1,13 @@
 name = "Carpet"
-filename = "fabric-carpet-1.19.2-1.4.84+v221018.jar"
+filename = "fabric-carpet-1.19.3-1.4.91+v221207.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9a88c3a004b15b1f776c988d8eae1cc191b4fbee"
+hash = "11ce60c4f4f5d1042935a7f49aaaa8c1dbecc75e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4033215
+file-id = 4143883
 project-id = 349239
