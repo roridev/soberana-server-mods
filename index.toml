@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/banhammer.pw.toml"
-hash = "f2b4716bf233cf556d2af84b32782788bf4ab6b7550f700f1b6f24a6c86c3c3a"
+hash = "31fa9e6aeb93abc1516a05420c8782ed54db3beb4fb3e26d8a168c6a1a421ae0"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "5b2566cd4cdfb5b47c31246af31ee4e27ec8ace3b248a00823adec7efd8f8fed"
+hash = "099edec50c69be38df1dbdc149a252b122bab35dd3400e6123e1012244871310"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/styledplayerlist.pw.toml"
-hash = "689052cd14c637c4fb0d63b3d3348d1af0320c024c8c545f919eb8ccef20849d"
+hash = "77b0faa9fdcbaf2d0b11358b34a659fd99e00dd5a7f150e0ad69a38259df81a7"
 metafile = true
 
 [[files]]
