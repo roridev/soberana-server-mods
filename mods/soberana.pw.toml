@@ -1,0 +1,9 @@
+name = "soberana"
+filename = "soberana.jar"
+side = "server"
+
+[download]
+url = "https://github.com/SoberanaCraft/quilt-mod/releases/download/1.0.0/soberana-mod-1.0.0.jar"
+
+hash-format = "sha256"
+hash = "b676d46b3c767caf648bc24f22b139cc6e89a6aeba6c713620528d4336971509"
