@@ -21,6 +21,11 @@ hash = "6cc42a228fec70742a3417264e009e1d25c7bb2539457fa061646f551effa21c"
 metafile = true
 
 [[files]]
+file = "mods/easyauth.pw.toml"
+hash = "18cabfd92ac0715e1890060a80d235f6be7eaa03041497dbabb0cfe7523cbac1"
+metafile = true
+
+[[files]]
 file = "mods/fastload.pw.toml"
 hash = "9ab7092cb7e27bec8bb02d195e8f0c6a207b3f1383da7179a57ebd3328778a24"
 metafile = true
