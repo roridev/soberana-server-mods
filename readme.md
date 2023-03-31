@@ -46,7 +46,6 @@ Core Version: 1.19.3
 - [Vanish](https://modrinth.com/mod/vanish)
 - [No portals](https://modrinth.com/mod/no-portals)
 - [Soberana](https://github.com/soberanacraft/quilt-mod) *Nota: Requer* [API](https://github.com/soberanacraft/api)
-- [EasyAuth](https://modrinth.com/mod/easyauth)
 
 ## Libs
 - [Quilt Kotlin Libraries](https://modrinth.com/mod/qkl)
