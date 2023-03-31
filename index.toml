@@ -51,6 +51,11 @@ hash = "2dcac529633f402a5a325b8031bf15a06db668b912e6be1596836bde3afb17f1"
 metafile = true
 
 [[files]]
+file = "mods/luckperms-placeholder.pw.toml"
+hash = "2fe540cd3acb6a0b1d2609e968341541fe9225c29458706c236bc8e26b98ea80"
+metafile = true
+
+[[files]]
 file = "mods/luckperms.pw.toml"
 hash = "114a5ff78e24bc0794339becc35fc54c62c37e1b1122b9ce1aa5c7225cc1493a"
 metafile = true
@@ -73,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/pingspam.pw.toml"
 hash = "ce73d325e95d50521ac82b8c3f6856e608c3ceaf7f83fa058a7d2abfa1ebd2c1"
+metafile = true
+
+[[files]]
+file = "mods/proxy-protocol-support.pw.toml"
+hash = "fcd527e996037d3b09409ab56776c8267903694ca93e416a5518424bf0dec0b7"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Proxy Protocol Support"
+filename = "proxy_protocol_support-1.0.3-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/mfONdVnp/versions/yqVhlryK/proxy_protocol_support-1.0.3-fabric.jar"
+hash-format = "sha1"
+hash = "caf5f88ecc9c115dffa1911c09f67e13036cace5"
+
+[update]
+[update.modrinth]
+mod-id = "mfONdVnp"
+version = "yqVhlryK"
