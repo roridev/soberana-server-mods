@@ -38,7 +38,7 @@ Core Version: 1.19.3
 - [Syncmatica](https://modrinth.com/mod/syncmatica)
 - [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet)
 - [Carpet Extra](https://www.curseforge.com/minecraft/mc-mods/carpet-extra)
-
+- [Fabric Tailor](https://modrinth/mod/fabric-tailor)
 
 ## Moderação
 - [LuckPerms](https://modrinth.com/mod/luckperms)
