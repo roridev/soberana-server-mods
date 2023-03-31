@@ -61,6 +61,11 @@ hash = "2f1393d78824d3e665be954e339affed26d8482d227aa3f13d6ca5d577469f8b"
 metafile = true
 
 [[files]]
+file = "mods/minimotd.pw.toml"
+hash = "172b47fb8d5c24360855b00d027ce7ae1a71ff2bd1b52e84dbecca5185b68a66"
+metafile = true
+
+[[files]]
 file = "mods/no-portals.pw.toml"
 hash = "3b2f49f8f96aaf975569f3367fa86a075b3c560fd908fec6c36208c0f3bf40a4"
 metafile = true

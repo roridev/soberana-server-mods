@@ -39,6 +39,7 @@ Core Version: 1.19.3
 - [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet)
 - [Carpet Extra](https://www.curseforge.com/minecraft/mc-mods/carpet-extra)
 - [Fabric Tailor](https://modrinth/mod/fabric-tailor)
+- [MiniMOTD](https://modrinth.com/plugin/minimotd)
 
 ## Moderação
 - [LuckPerms](https://modrinth.com/mod/luckperms)
