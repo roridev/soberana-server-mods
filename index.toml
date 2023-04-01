@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/soberana.pw.toml"
-hash = "811a6a75cf2aab754d78a31945f7065a066ffc388031caeccc76d09f5c1370be"
+hash = "c292ec16228ce194fbb43744a7c0ae464d5faabdeb167488a6b2dbf7600e6706"
 metafile = true
 
 [[files]]

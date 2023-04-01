@@ -3,7 +3,7 @@ filename = "soberana.jar"
 side = "server"
 
 [download]
-url = "https://github.com/SoberanaCraft/quilt-mod/releases/download/1.1.0/soberana-mod-1.1.0.jar"
+url = "https://github.com/SoberanaCraft/quilt-mod/releases/download/1.1.5/soberana-mod-1.1.5.jar"
 
 hash-format = "sha256"
-hash = "eb380858b805c7d47a08dcdd250eaa65be5b309da047425e0c4a8b7bda2aa7fe"
+hash = "5fbb944af986174ad59eabfa492d917aaf637d0f9df17890ad654e778b3d692a"
