@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "2f1393d78824d3e665be954e339affed26d8482d227aa3f13d6ca5d577469f8b"
+hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "072cdb68d83e4e823079740b7540b60b53145f934434efb644a7b1b0e609a45e"
+hash = "1a01ddbbd744c610f636a586b58a9987763f28d60dc26c05ec27c946a86b5b70"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "d4162ef05615cc55b2b991d0f5183efcf76e6d75be8eef93ebe2a3c8a584dd49"
+hash = "837ed96bb08ad860297bb7c985b752d8c38b73d912f00e21504c4d69f60e94d4"
 metafile = true
 
 [[files]]
