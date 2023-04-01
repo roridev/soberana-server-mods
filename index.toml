@@ -156,6 +156,11 @@ hash = "a0f3cd90fc6dea38e64e8083462c9bf09c37d03b0cb7906124f2d773039daa5b"
 metafile = true
 
 [[files]]
+file = "mods/universal-perms.pw.toml"
+hash = "067f76a3a854f3b1c776d0c62b4f70c3d26447ce69857e5f1dca52f81d54efee"
+metafile = true
+
+[[files]]
 file = "mods/vanish.pw.toml"
 hash = "385d95b5644a7311a46ae157391c12bc6e273d6e23402b38abe9bb09dd501ecb"
 metafile = true
