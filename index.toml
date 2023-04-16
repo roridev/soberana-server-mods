@@ -16,6 +16,11 @@ hash = "6b0c999ed662dbf93be1da92b1f7200fda80f4e690448ec603cda0f1b81c6ccb"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "44ff1ee89feb34b51ed41e5841eb54bbd1e5ea112f117789c66bbd8b032bf592"
+metafile = true
+
+[[files]]
 file = "mods/coord-finder.pw.toml"
 hash = "6cc42a228fec70742a3417264e009e1d25c7bb2539457fa061646f551effa21c"
 metafile = true
@@ -158,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/syncmatica.pw.toml"
 hash = "a0f3cd90fc6dea38e64e8083462c9bf09c37d03b0cb7906124f2d773039daa5b"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "d6110815c6b8e5097e4081f5d6bfe4cc8cbcaaf31af8d38911f8759515162d9e"
 metafile = true
 
 [[files]]
