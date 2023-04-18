@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "9ab7092cb7e27bec8bb02d195e8f0c6a207b3f1383da7179a57ebd3328778a24"
+hash = "d7cbd82ec74752b7998eb38815aa901480de242765f12416062ad169540c0687"
 metafile = true
 
 [[files]]
@@ -102,12 +102,12 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "946275e17b2c860d1efb56d268a63c53fa9100953ea7759c4f7c22c3385734c9"
+hash = "e4c981864080221395f462c5a2ef1ccfd38aa6b16ca10879a4b5ef4f60828a7d"
 metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "1a01ddbbd744c610f636a586b58a9987763f28d60dc26c05ec27c946a86b5b70"
+hash = "aafc73cb2331226fccc8edf92344f2c7c91311129c33ca07fbbd5468f2987ada"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "837ed96bb08ad860297bb7c985b752d8c38b73d912f00e21504c4d69f60e94d4"
+hash = "134a08c887123a38fd756b153ac678a8c9eb54db320ad6e352a8fdb48e638b26"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
-hash = "8a0efc14c47ec6708fad2f8591a8ced089f1175d31afbc4c8691f29658112af6"
+hash = "94c1b8d7e9b3be80b6b34dd288803d7ac42f57d7b73606c093e8a87f4a6d10b9"
 metafile = true
 
 [[files]]
@@ -187,5 +187,5 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "f60dab2c1cf96a1d156c35f24fe90b1b6208202eb59caff77f6348066277e549"
+hash = "dbc278de3d507cad99715d17c2f4858e58cf7ce5e76c9c59525d5fae7c05172f"
 metafile = true
