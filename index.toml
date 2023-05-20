@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "d7cbd82ec74752b7998eb38815aa901480de242765f12416062ad169540c0687"
+hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "aafc73cb2331226fccc8edf92344f2c7c91311129c33ca07fbbd5468f2987ada"
+hash = "e9dcb0d4d088c6375fbb4b0a9679a34480879e5d4f674b072da216eedfd6f72e"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "134a08c887123a38fd756b153ac678a8c9eb54db320ad6e352a8fdb48e638b26"
+hash = "92514df1b688eaed8df6d0bff094d1170cd0095a315b212959f74025fe8a33af"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "50c06afeef4a0f87ce306a734f3a26f48a0e346bd6a42b3fb967d3ee62b65894"
+hash = "245599aeee8c2497af5588bcf1430a2753c9cd4827b7c8891dfbe9c578405038"
 metafile = true
 
 [[files]]
