@@ -6,6 +6,11 @@ hash = "27b096c8d024c3c935c4c8f099da3516f0a111e61f2e36a995a79b3f9c08dd53"
 metafile = true
 
 [[files]]
+file = "mods/bv-mod.pw.toml"
+hash = "d01ae91a28aa7e975641c67f2556bdaa353dad5833ce5f4dea607771d2b80b14"
+metafile = true
+
+[[files]]
 file = "mods/carpet-extra.pw.toml"
 hash = "8755b3dbfda384504c0254e63d8ef683d9e34d72bab8d77d4b8fd785d9930220"
 metafile = true
