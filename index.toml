@@ -51,11 +51,6 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
-file = "mods/gadget.pw.toml"
-hash = "c99ee42cfbef00335a5b45b69eac313ad097e88cd1bafaf16007b89e3a6cae0e"
-metafile = true
-
-[[files]]
 file = "mods/jade.pw.toml"
 hash = "51709a536d48a3aa27af5c0316647dc0dc74be79000ecb5262795bb383c9a204"
 metafile = true
