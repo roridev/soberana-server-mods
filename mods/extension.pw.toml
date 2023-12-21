@@ -1,0 +1,7 @@
+name = "extension"
+filename = "extension-1.0.0.jar"
+
+[download]
+url = "https://github.com/blocovermelho/extension/releases/download/1.0.0/extension-1.0.0.jar"
+hash-format = "sha1"
+hash = "9577e0cfeaba8c167f7d62af6c46127bf9de423b"

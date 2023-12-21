@@ -36,6 +36,11 @@ hash = "d2a02df6c96fc47c089976e457e30236077cfa46e469f553c1eaf10049c6af30"
 metafile = true
 
 [[files]]
+file = "mods/extension.pw.toml"
+hash = "c2dbcc253ba254b37a40824a257486bec673f63b9fc1024879be0861dd6badff"
+metafile = true
+
+[[files]]
 file = "mods/fabrictailor.pw.toml"
 hash = "b5fa39db5c13454ebc82cfc76da7fa33ccaa389986f407a033c5c9675633f00c"
 metafile = true
