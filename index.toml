@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/extension.pw.toml"
-hash = "564e1fc268bf134a35ff40739ce45d619c5dee5a076c6864eab78eec76b8f55b"
+hash = "2b7505a6e55a98187cc0b56561a1c075d9c48a3e0d10c7cf5548e7c371d7d092"
 metafile = true
 
 [[files]]
