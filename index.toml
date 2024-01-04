@@ -27,12 +27,12 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "9c5b2ccf44210ccfd17b8f39e1fe5d7cb27e0acc78abecc855917ac5a3b7c2b5"
+hash = "14dee244835896ecf74aeb0e2e9f86176ec208c9b981471cd8a599bab5966a9d"
 metafile = true
 
 [[files]]
 file = "mods/coord-finder.pw.toml"
-hash = "d2a02df6c96fc47c089976e457e30236077cfa46e469f553c1eaf10049c6af30"
+hash = "2b56d4f2100d26139f41bc88daeb388ffe6af08484bccfcf2a637b5ef1756308"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "51709a536d48a3aa27af5c0316647dc0dc74be79000ecb5262795bb383c9a204"
+hash = "bd14735296607c2f58e3130748610d08ab6407afcb1d7cd168e856a0012173a7"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "f1cc192a3fd0ae7432f271912bbb62d8f8f319ec3bb80a2f229907f11d4755cb"
+hash = "02421594640b86ccd43e888d0413ade610b4a87bb5a2325cccdfda0a502c5b61"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "5493b29ebfa85448ca5063eeecf1811a01e5f5fc2f7d2dec51d339ba06a72a7c"
+hash = "01b9047e31dc6074701da8935325100487bdf7753b6b8f088004e1c2aef0c6e6"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/stackdeobf.pw.toml"
-hash = "daeec6e32a564883d796749c66e372463b2ecadf45d95e7b05f4e984cda80d91"
+hash = "c190e3b4f36f65c9c6ce72beb5f9760fa9c3793be2fa956e09d99fbbaeef6aaa"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/status.pw.toml"
-hash = "eb879f3598aa2e6110ee290359f1572b01c7971fcfe351e3ad7d3252afdcf523"
+hash = "676dc58b87009af6d7aab3590455bdb85e2b6a4a98fd644f864aecdc1dffade1"
 metafile = true
 
 [[files]]
@@ -182,12 +182,12 @@ metafile = true
 
 [[files]]
 file = "mods/syncmatica.pw.toml"
-hash = "80ab29cd4fa74c7d6f0cf3e8bd895888738a7c531658eeff2130d1e7b37c6bcf"
+hash = "1bcfedea8c71c58c75646e0afd6211a95df4b4d0e545c28585f6aa3647f7158c"
 metafile = true
 
 [[files]]
 file = "mods/tree-harvester.pw.toml"
-hash = "2723ff4a660533791803a47f9e29d04f79d0773998a14402a86d4f15de3acc52"
+hash = "c90ea63a60095439c515a53508695db46eba1680bd8df9b7adbaadfb8ed70732"
 metafile = true
 
 [[files]]
