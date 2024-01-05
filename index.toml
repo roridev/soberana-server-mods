@@ -36,6 +36,11 @@ hash = "2b56d4f2100d26139f41bc88daeb388ffe6af08484bccfcf2a637b5ef1756308"
 metafile = true
 
 [[files]]
+file = "mods/elytra-trims.pw.toml"
+hash = "676d4618afe1768b613e0aaea70adb95d27b55ee5f532e517da663528bdfb594"
+metafile = true
+
+[[files]]
 file = "mods/extension.pw.toml"
 hash = "2d4650562a4b8827c90de812b3255f59fff7046d979c787bf1c25b90f967ef33"
 metafile = true
