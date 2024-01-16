@@ -121,6 +121,16 @@ hash = "ca5e372f8efa4ef863dc7e84412ecee5608bd89a652062c9f574e6115537f4cc"
 metafile = true
 
 [[files]]
+file = "mods/polymer.pw.toml"
+hash = "1db896aa5f0189460dd7a7826052aa275db5897b16e87b1ff470dbcb3c825cf6"
+metafile = true
+
+[[files]]
+file = "mods/polysit.pw.toml"
+hash = "98d4dc499adbcda7a569b85ecc78fcbce10bb9a7c111c00370b36019a594a1fb"
+metafile = true
+
+[[files]]
 file = "mods/qkl.pw.toml"
 hash = "47217cc1489533f668d622f2078351a61873be573311a9a94be7293328a849a7"
 metafile = true
