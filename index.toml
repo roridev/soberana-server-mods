@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/banhammer.pw.toml"
-hash = "27b096c8d024c3c935c4c8f099da3516f0a111e61f2e36a995a79b3f9c08dd53"
+hash = "73fcb65b1d53a39fef80d972e697fb742104d1b03179080ab2abd44cc88b9fcf"
 metafile = true
 
 [[files]]
@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-fixes.pw.toml"
-hash = "d7c6555b666ff113894f6dd6dba7e6cc95c041542d06a39fd6f67421341711b9"
+hash = "590d03cf3e5e0915028c371ad4f5b7d0ac37b8108f06c242febbdbd131dd56f2"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "14dee244835896ecf74aeb0e2e9f86176ec208c9b981471cd8a599bab5966a9d"
+hash = "5333619ce0f7e191d409fac6cd1c5981b15fd9baee160114e4a5010d9b44761d"
 metafile = true
 
 [[files]]
@@ -37,7 +37,17 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "676d4618afe1768b613e0aaea70adb95d27b55ee5f532e517da663528bdfb594"
+hash = "abcc2d09c4f837c7bb74fa84f802e4a31dd70d4a7ad73a3ea7eee543ffa23859"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "a795456f4c51698e46972aa908fc7966291214de6d028e01d9d0c94121ae2c43"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "89556771a29b247e12fc58be469262f67ab1b736854381ae6cc4a7a1158ecebd"
 metafile = true
 
 [[files]]
@@ -51,6 +61,11 @@ hash = "b5fa39db5c13454ebc82cfc76da7fa33ccaa389986f407a033c5c9675633f00c"
 metafile = true
 
 [[files]]
+file = "mods/fastback.pw.toml"
+hash = "27058ff24b894fe8d1157017c13db4bb5f4953d9a89a76b7ba0ad9d1723f4d19"
+metafile = true
+
+[[files]]
 file = "mods/fastload.pw.toml"
 hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
 metafile = true
@@ -61,8 +76,13 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
+file = "mods/inventory-management.pw.toml"
+hash = "e181bb57004fede8c736e9183d8645e7db17d965669590575b3cbbc1050075ef"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
-hash = "bd14735296607c2f58e3130748610d08ab6407afcb1d7cd168e856a0012173a7"
+hash = "169c556d113a560237df18bd07a7247ffb747cf0d5be105462dfa55f5a19c0e1"
 metafile = true
 
 [[files]]
@@ -82,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/litemoretica.pw.toml"
-hash = "09963424617359ab3c2196a496ef5a7ebe976371598bfd849c8c063509c7a3a3"
+hash = "4a3c7eca96131a1e795b867721c1307781670fbdd513b65f0a8877ef6698e464"
 metafile = true
 
 [[files]]
@@ -92,7 +112,12 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
+hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
+metafile = true
+
+[[files]]
+file = "mods/minimap-sync.pw.toml"
+hash = "469d6d85acf99c404f36f5bf9616bd6d60c2e8122b4b9449a2278980237dd7fc"
 metafile = true
 
 [[files]]
@@ -137,12 +162,12 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "db2669fd5202942c0d0514c797c198506470e149542ac9d65e33e04f1a01db23"
+hash = "5a6df3930d69602402cd13bf860195ac44680e2d4556e8d1254ae730fcb4b0f9"
 metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "02421594640b86ccd43e888d0413ade610b4a87bb5a2325cccdfda0a502c5b61"
+hash = "e5b1afd1fedd08ba9fca6d88fe1f0fedf6154fc7b6fa92946dfe0f8357efeebd"
 metafile = true
 
 [[files]]
@@ -157,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "01b9047e31dc6074701da8935325100487bdf7753b6b8f088004e1c2aef0c6e6"
+hash = "8914e39f583cad2cbf3563c4aa9721ddb2b4fecd8a1dc5cc342b768f8affdd1d"
 metafile = true
 
 [[files]]
@@ -202,12 +227,12 @@ metafile = true
 
 [[files]]
 file = "mods/tree-harvester.pw.toml"
-hash = "c90ea63a60095439c515a53508695db46eba1680bd8df9b7adbaadfb8ed70732"
+hash = "958e475fe348187dc7af3507d36f9f60b2dbe07a69f719e8a65b6f3062d12db6"
 metafile = true
 
 [[files]]
 file = "mods/vanish.pw.toml"
-hash = "fd25d5fa4114515b81e849948be698daa3b9a9bb220165871d9e281e7fc32e4a"
+hash = "e06cf7bcae95a929ea0fad1567eda0688bf436537c6b075738484a0570a24b6e"
 metafile = true
 
 [[files]]
