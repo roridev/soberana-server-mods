@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/bv-mod.pw.toml"
-hash = "9dc9dab17c0d6bec2437711127a9060161233d3ad3a3cb6b763050f66aae7add"
+hash = "0831225ffde591058bd94f139323f3707227864cd8a01d621cf4f6a62235a437"
 metafile = true
 
 [[files]]
