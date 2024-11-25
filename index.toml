@@ -141,11 +141,6 @@ hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
-file = "mods/pingspam.pw.toml"
-hash = "ca5e372f8efa4ef863dc7e84412ecee5608bd89a652062c9f574e6115537f4cc"
-metafile = true
-
-[[files]]
 file = "mods/polymer.pw.toml"
 hash = "dec466e9c1a7637f120e6432eccafbf1ff32bc0d6a3084986211f6d6025aead2"
 metafile = true
